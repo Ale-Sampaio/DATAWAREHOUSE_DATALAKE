@@ -3,3 +3,5 @@ Este projeto tem como propósito apresentar uma abordagem prática para a análi
 
 ## Resultados
 ### Código 01
+![image](https://github.com/HyP3rZer4/DATAWAREHOUSE_DATALAKE/assets/121987957/7e0a5c7a-41ee-4023-9d82-ce0fadd8f161)
+
